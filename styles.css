@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: white;
+  color: orangered;
 }
 a:hover {
   color: #6633ff;
@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: orangered;
+  color: white;
 }
 
 header {
